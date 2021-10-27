@@ -1,0 +1,89 @@
+body {
+  /* background-color: rgba(187, 187, 179); */
+  background-image: url(images/town.jpeg);
+  background-size: "#";
+}
+}
+
+img {
+    background-color: rgba(187, 187, 179)
+    img
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+    text-align: left;
+    margin-left:400px;
+
+}
+
+h2 {
+    color: rgb(68, 68, 56);
+    font-size: 50px;
+    text-align: center;
+    margin-right: - 30px;
+    margin-top: 360px
+
+}
+
+
+.box {
+   border-radius: 40%;
+  width: 60%;
+   margin-left: 270px;
+   margin-top: 300px;
+ }
+
+ #paragraph_box {
+   background: transparent
+   width: 60%;
+   text-align: center;
+   margin-right: 300px
+
+ }
+
+  .list {
+   list-style: none;
+   font-size:50px;
+   color: white;
+   display: inline-block;
+   margin: 20px;
+    }
+
+
+.imgaligne {
+  display: block;
+  margin-left: 270px;
+  margin-right: auto;
+  width: 30%;
+}
+
+p{
+  color: black;
+  font-size: 30px;
+  margin-left: 100px;
+  margin-top: -380px ;
+  font-family: 'Gochi Hand', cursive;
+}
+
+ .listbox{
+   background: transparent
+   width: 60%;
+   text-align: center;
+   margin-right: 300px
+  font-size: 25px;
+ }
+
+ a {
+   color: darkgreen;
+ }
+
+ .bulle {
+  background: white
+  width: 10%;
+  image-size: 20px;
+   margin-right: 20px;
+  margin-top: -300px;
+  padding-right: -30px;
+ }
